@@ -144,4 +144,3 @@ class LivroController extends Livro {
 
 export default LivroController;
 
-
